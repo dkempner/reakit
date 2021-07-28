@@ -6,6 +6,7 @@ export { default as DialogWithFocusLoss } from "./DialogWithFocusLoss";
 export { default as DialogWithForm } from "./DialogWithForm";
 export { default as DialogWithMultipleDisclosures } from "./DialogWithMultipleDisclosures";
 export { default as DialogWithVirtualCompositeWithTooltip } from "./DialogWithVirtualCompositeWithTooltip";
+export { default as DialogWithModalAndOverflow } from "./DialogWithModalAndOverflow";
 
 export default {
   title: "Dialog",
